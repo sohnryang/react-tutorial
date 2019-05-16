@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/sohnryang/react-tutorial/issues"
   },
-  "homepage": "https://github.com/sohnryang/react-tutorial#readme"
+  "homepage": "https://github.com/sohnryang/react-tutorial#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
 }
